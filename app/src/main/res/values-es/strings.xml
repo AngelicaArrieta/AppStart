@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Nube de Luna</string>
+
+    <string name="text_username">Usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="hint_password">Tu contraseña</string>
+    <string name="text">Inicio</string>
+    <string name="txt_welcome">Bienvenido</string>
+    <string name="user">Angélica</string>
+    <string name="txt_introduction">Introducción</string>
+    <string name="txt_class1">Clase 1</string>
+    <string name="textview">Registro</string>
+    <string name="txt_lorem_ipsum">TNo hay nada mejor que sentirse bien en el lugar en donde descansas y en especial no hay nada mejor que verlo lucir como a tí te gusta.
+        Nube de Luna es la app que te muestra diferentes tipos de ropa de cama que pueden hacer de tu lugar de descanso y paraíso de ensueño.</string>
+    <string name="txt_action_search">Buscar</string>
+    <string name="txt_action_settings">configuración</string>
+    <string name="txt_action_logout">Cerrar Sesión</string>
+</resources>

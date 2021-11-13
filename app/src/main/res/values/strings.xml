@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Nube de Luna</string>
+
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="hint_password">Your password</string>
+    <string name="text">Login</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="user">Angelica</string>
+    <string name="txt_introduction">Introduction</string>
+    <string name="txt_class1">Class 1</string>
+    <string name="textview">Register</string>
+    <string name="txt_lorem_ipsum">There is nothing better than feeling good in the place where you rest and especially there is nothing better than seeing it looking the way you like it.
+        Mooncloud is the app that shows you different types of bedding that can make your resting place and dream paradise.</string>
+    <string name="txt_action_search">Search</string>
+    <string name="txt_action_settings">Settings</string>
+    <string name="txt_action_logout">Logout</string>
+</resources>
