@@ -6,7 +6,7 @@
     <string name="hint_password">Your password</string>
     <string name="text">Login</string>
     <string name="txt_welcome">Welcome</string>
-    <string name="user">Angelica</string>
+    <string name="user">User</string>
     <string name="txt_introduction">Introduction</string>
     <string name="txt_class1">Class 1</string>
     <string name="textview">Register</string>
@@ -15,4 +15,14 @@
     <string name="txt_action_search">Search</string>
     <string name="txt_action_settings">Settings</string>
     <string name="txt_action_logout">Logout</string>
+    <string name="test_Name">Name</string>
+    <string name="test_NameExample">Your Name</string>
+    <string name="test_LastName">Last Name</string>
+    <string name="test_LastNameExample">Your Last Name</string>
+    <string name="test_Mobile">Mobile</string>
+    <string name="test_MobileExample">311111111</string>
+    <string name="test_Terms">Accept terms and conditions</string>
+    <string name="test_EmptyMail">Empty email</string>
+    <string name="test_register">Register</string>
+    <string name="test_Return">Return</string>
 </resources>
